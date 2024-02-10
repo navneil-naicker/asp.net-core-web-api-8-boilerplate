@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/asp.net-core-web-api-8-boilerplate/bin/Debug/net8.0
+/asp.net-core-web-api-8-boilerplate/obj
